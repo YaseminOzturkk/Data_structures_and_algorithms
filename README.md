@@ -1,2 +1,2 @@
 # data_structures-and-algorithms
-Veri Bilimi Patikası kapsamında gerçekleştirilen çalışmalar bu repository içinde yer almaktadır.
+Projects realized within the scope of Data Science Pathway are included in this repository.
